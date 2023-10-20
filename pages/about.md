@@ -12,6 +12,10 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
+## Testing CollectionBuilder
+
+This is a first pass test of using static site generators for digital exhibitions. Current status: completed the extremely basic tutorial.
+
 ## About the Collection
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
